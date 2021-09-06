@@ -2,4 +2,5 @@ Gtrays Repository
 - Belajar github
 - di yt programming unpas
 - bismillah lancar
+tambahkan python
 - semangat
